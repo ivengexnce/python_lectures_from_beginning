@@ -1,0 +1,87 @@
+| Library           | Purpose                      | Example Use                  |
+| ----------------- | ---------------------------- | ---------------------------- |
+| `math`            | Mathematical functions       | `sqrt()`, `sin()`, `cos()`   |
+| `random`          | Random number generation     | Games, simulations           |
+| `datetime`        | Date and time handling       | Clocks, scheduling           |
+| `os`              | Operating system interaction | Create/delete files, folders |
+| `sys`             | Python system functions      | Command-line arguments       |
+| `time`            | Time-related functions       | Delays, timers               |
+| `json`            | JSON data handling           | APIs, configuration files    |
+| `csv`             | CSV file handling            | Excel-like data processing   |
+| `re`              | Regular expressions          | Pattern matching, validation |
+| `collections`     | Advanced data structures     | Counters, queues             |
+| `itertools`       | Efficient looping            | Combinations, permutations   |
+| `pathlib`         | File path management         | Modern file handling         |
+| `sqlite3`         | SQLite database              | Small applications           |
+| `tkinter`         | GUI development              | Desktop apps                 |
+| `threading`       | Multithreading               | Concurrent tasks             |
+| `multiprocessing` | Parallel processing          | CPU-intensive tasks          |
+----------------------------------------------------------------------------------
+*DATA SCIENCE & AI*
+| Library           | Purpose                        |
+| ----------------- | ------------------------------ |
+| `numpy`           | Numerical computing and arrays |
+| `pandas`          | Data analysis and tables       |
+| `matplotlib`      | Data visualization             |
+| `scipy`           | Scientific computing           |
+| `seaborn`         | Statistical visualization      |
+| `scikit-learn`    | Machine learning               |
+| `tensorflow`      | Deep learning                  |
+| `torch` (PyTorch) | Deep learning                  |
+| `xgboost`         | Advanced machine learning      |
+------------------------------------------------------------
+*Computer Vision*
+| Library            | Purpose                        |
+| ------------------ | ------------------------------ |
+| `cv2` (OpenCV)     | Image and video processing     |
+| `Pillow` (PIL)     | Image editing                  |
+| `mediapipe`        | Face, hand, pose tracking      |
+| `face_recognition` | Face detection and recognition |
+---------------------------------------------------------
+
+*AUTOMATION*
+| Library       | Purpose                       |
+| ------------- | ----------------------------- |
+| `pyautogui`   | Mouse and keyboard automation |
+| `schedule`    | Task scheduling               |
+| `openpyxl`    | Excel file manipulation       |
+| `python-docx` | Word document creation        |
+| `reportlab`   | PDF generation                |
+--------------------------------------------------
+
+*Networking & API*
+| Library      | Purpose                 |
+| ------------ | ----------------------- |
+| `socket`     | Network communication   |
+| `paramiko`   | SSH connections         |
+| `requests`   | API calls               |
+| `websockets` | Real-time communication |
+-------------------------------------------
+
+*Cybersecurity*
+| Library        | Purpose                 |
+| -------------- | ----------------------- |
+| `hashlib`      | Hashing                 |
+| `cryptography` | Encryption              |
+| `scapy`        | Network packet analysis |
+---------------------------------------------
+
+| Library               | Simple Meaning                | Main Use Cases                                    |
+| --------------------- | ----------------------------- | ------------------------------------------------- |
+| `math`                | Calculator                    | Square roots, trigonometry, logarithms, formulas  |
+| `random`              | Dice / Lottery Machine        | Random numbers, games, simulations                |
+| `datetime`            | Calendar + Clock              | Dates, times, scheduling, timestamps              |
+| `os`                  | Computer File Manager         | Create/delete files and folders, interact with OS |
+| `json`                | API Data Translator           | Read/write JSON files, work with APIs             |
+| `csv`                 | Excel File Reader             | Read and write CSV spreadsheets                   |
+| `numpy`               | Super-Fast Calculator         | Arrays, matrices, scientific computing            |
+| `pandas`              | Excel in Python               | Data analysis, tables, data cleaning              |
+| `matplotlib`          | Graph Maker                   | Line charts, bar charts, data visualization       |
+| `requests`            | Internet Messenger            | Send HTTP requests, consume APIs                  |
+| `flask`               | Website Builder (Lightweight) | Web applications, REST APIs                       |
+| `opencv-python (cv2)` | Computer Eyes                 | Image processing, face detection, video analysis  |
+| `pygame`              | Game Engine                   | 2D games, animations, multimedia                  |
+| `beautifulsoup4`      | Website Scraper               | Extract data from HTML web pages                  |
+| `tkinter`             | Window Builder                | Desktop GUI applications                          |
+| `tensorflow`          | AI Brain Builder              | Deep learning, neural networks                    |
+| `pytorch`             | AI Research Toolkit           | Machine learning, AI model development            |
