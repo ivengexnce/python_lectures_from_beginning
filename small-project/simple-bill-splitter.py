@@ -4,18 +4,22 @@
 print("\n\t==BILL SPLITTER==\n")
 
 #get the total bill amount from the user
-total_bill=float(input("Enter the total bill amount: "))
+total_bill=float(input("Enter the total bill amount: ₹"))
 
 #get the number of people to split the bill
-num_people=int(input("Enter the no. of people to  split the bill in: "))
+num_people=int(input("Enter the no. of people splitting: "))
 
 #split the bill using formula total_amount_of_bill/no. of ppls ( use the condition no. of ppls > 0 )
+print("\n\t==RESULT==\n")
+print(f"Total bill amount: ₹{total_bill}")
+print(f"No. of people to split the bill: {num_people}")
 
-if num_people >0:
-    amount_per_person_pays=total_bill/num_people
-    print("Each person gets the contri of: ", amount_per_person_pays)
-
+#logic is main 
+if num_people < 0:
+    print("❌ Invalid! Number of people cannot be negative.")
+elif num_people == 0:
+    print("😂 You're paying the whole bill! 👾")
 else:
-    print("You have to pay all bill😂👾")
-
+    amount_per_person = total_bill / num_people
+    print(f"Each Person Pays  : ₹{amount_per_person:.2f}")
 
