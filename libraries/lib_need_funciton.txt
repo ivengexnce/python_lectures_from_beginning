@@ -31,7 +31,7 @@
 | `xgboost`         | Advanced machine learning      |
 ------------------------------------------------------------
 *Computer Vision*
-| Library            | Purpose                        |
+| Library            |  Purpose                        |
 | ------------------ | ------------------------------ |
 | `cv2` (OpenCV)     | Image and video processing     |
 | `Pillow` (PIL)     | Image editing                  |
